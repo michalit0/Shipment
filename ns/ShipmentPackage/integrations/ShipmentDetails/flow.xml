@@ -54,10 +54,18 @@
           <record javaclass="com.wm.util.Values">
             <value name="node_type">unknown</value>
             <value name="node_subtype">unknown</value>
+            <value name="node_comment"></value>
+            <record name="node_hints" javaclass="com.wm.util.Values">
+              <value name="field_usereditable">true</value>
+              <value name="field_largerEditor">false</value>
+              <value name="field_password">false</value>
+            </record>
             <value name="is_public">false</value>
             <value name="field_name">B2B</value>
             <value name="field_type">string</value>
             <value name="field_dim">0</value>
+            <array name="field_options" type="value" depth="1">
+            </array>
             <value name="nillable">true</value>
             <value name="form_qualified">false</value>
             <value name="is_global">false</value>
@@ -65,10 +73,18 @@
           <record javaclass="com.wm.util.Values">
             <value name="node_type">unknown</value>
             <value name="node_subtype">unknown</value>
+            <value name="node_comment"></value>
+            <record name="node_hints" javaclass="com.wm.util.Values">
+              <value name="field_usereditable">true</value>
+              <value name="field_largerEditor">false</value>
+              <value name="field_password">false</value>
+            </record>
             <value name="is_public">false</value>
             <value name="field_name">Carrier</value>
             <value name="field_type">string</value>
             <value name="field_dim">0</value>
+            <array name="field_options" type="value" depth="1">
+            </array>
             <value name="nillable">true</value>
             <value name="form_qualified">false</value>
             <value name="is_global">false</value>
@@ -76,10 +92,18 @@
           <record javaclass="com.wm.util.Values">
             <value name="node_type">unknown</value>
             <value name="node_subtype">unknown</value>
+            <value name="node_comment"></value>
+            <record name="node_hints" javaclass="com.wm.util.Values">
+              <value name="field_usereditable">true</value>
+              <value name="field_largerEditor">false</value>
+              <value name="field_password">false</value>
+            </record>
             <value name="is_public">false</value>
             <value name="field_name">ChargeableWeight</value>
             <value name="field_type">string</value>
             <value name="field_dim">0</value>
+            <array name="field_options" type="value" depth="1">
+            </array>
             <value name="nillable">true</value>
             <value name="form_qualified">false</value>
             <value name="is_global">false</value>
@@ -87,10 +111,18 @@
           <record javaclass="com.wm.util.Values">
             <value name="node_type">unknown</value>
             <value name="node_subtype">unknown</value>
+            <value name="node_comment"></value>
+            <record name="node_hints" javaclass="com.wm.util.Values">
+              <value name="field_usereditable">true</value>
+              <value name="field_largerEditor">false</value>
+              <value name="field_password">false</value>
+            </record>
             <value name="is_public">false</value>
             <value name="field_name">CompanyCoutryCode</value>
             <value name="field_type">string</value>
             <value name="field_dim">0</value>
+            <array name="field_options" type="value" depth="1">
+            </array>
             <value name="nillable">true</value>
             <value name="form_qualified">false</value>
             <value name="is_global">false</value>
@@ -98,10 +130,18 @@
           <record javaclass="com.wm.util.Values">
             <value name="node_type">unknown</value>
             <value name="node_subtype">unknown</value>
+            <value name="node_comment"></value>
+            <record name="node_hints" javaclass="com.wm.util.Values">
+              <value name="field_usereditable">true</value>
+              <value name="field_largerEditor">false</value>
+              <value name="field_password">false</value>
+            </record>
             <value name="is_public">false</value>
             <value name="field_name">CompanyID</value>
             <value name="field_type">string</value>
             <value name="field_dim">0</value>
+            <array name="field_options" type="value" depth="1">
+            </array>
             <value name="nillable">true</value>
             <value name="form_qualified">false</value>
             <value name="is_global">false</value>
@@ -109,10 +149,18 @@
           <record javaclass="com.wm.util.Values">
             <value name="node_type">unknown</value>
             <value name="node_subtype">unknown</value>
+            <value name="node_comment"></value>
+            <record name="node_hints" javaclass="com.wm.util.Values">
+              <value name="field_usereditable">true</value>
+              <value name="field_largerEditor">false</value>
+              <value name="field_password">false</value>
+            </record>
             <value name="is_public">false</value>
             <value name="field_name">CustomerServiceEmail</value>
             <value name="field_type">string</value>
             <value name="field_dim">0</value>
+            <array name="field_options" type="value" depth="1">
+            </array>
             <value name="nillable">true</value>
             <value name="form_qualified">false</value>
             <value name="is_global">false</value>
@@ -120,10 +168,18 @@
           <record javaclass="com.wm.util.Values">
             <value name="node_type">unknown</value>
             <value name="node_subtype">unknown</value>
+            <value name="node_comment"></value>
+            <record name="node_hints" javaclass="com.wm.util.Values">
+              <value name="field_usereditable">true</value>
+              <value name="field_largerEditor">false</value>
+              <value name="field_password">false</value>
+            </record>
             <value name="is_public">false</value>
             <value name="field_name">CustomerServiceName</value>
             <value name="field_type">string</value>
             <value name="field_dim">0</value>
+            <array name="field_options" type="value" depth="1">
+            </array>
             <value name="nillable">true</value>
             <value name="form_qualified">false</value>
             <value name="is_global">false</value>
@@ -131,10 +187,18 @@
           <record javaclass="com.wm.util.Values">
             <value name="node_type">unknown</value>
             <value name="node_subtype">unknown</value>
+            <value name="node_comment"></value>
+            <record name="node_hints" javaclass="com.wm.util.Values">
+              <value name="field_usereditable">true</value>
+              <value name="field_largerEditor">false</value>
+              <value name="field_password">false</value>
+            </record>
             <value name="is_public">false</value>
             <value name="field_name">CustomerServicePhone</value>
             <value name="field_type">string</value>
             <value name="field_dim">0</value>
+            <array name="field_options" type="value" depth="1">
+            </array>
             <value name="nillable">true</value>
             <value name="form_qualified">false</value>
             <value name="is_global">false</value>
@@ -142,10 +206,18 @@
           <record javaclass="com.wm.util.Values">
             <value name="node_type">unknown</value>
             <value name="node_subtype">unknown</value>
+            <value name="node_comment"></value>
+            <record name="node_hints" javaclass="com.wm.util.Values">
+              <value name="field_usereditable">true</value>
+              <value name="field_largerEditor">false</value>
+              <value name="field_password">false</value>
+            </record>
             <value name="is_public">false</value>
             <value name="field_name">CustomsDeclarationDate</value>
             <value name="field_type">string</value>
             <value name="field_dim">0</value>
+            <array name="field_options" type="value" depth="1">
+            </array>
             <value name="nillable">true</value>
             <value name="form_qualified">false</value>
             <value name="is_global">false</value>
@@ -153,10 +225,18 @@
           <record javaclass="com.wm.util.Values">
             <value name="node_type">unknown</value>
             <value name="node_subtype">unknown</value>
+            <value name="node_comment"></value>
+            <record name="node_hints" javaclass="com.wm.util.Values">
+              <value name="field_usereditable">true</value>
+              <value name="field_largerEditor">false</value>
+              <value name="field_password">false</value>
+            </record>
             <value name="is_public">false</value>
             <value name="field_name">CustomsDeclarationNumber</value>
             <value name="field_type">string</value>
             <value name="field_dim">0</value>
+            <array name="field_options" type="value" depth="1">
+            </array>
             <value name="nillable">true</value>
             <value name="form_qualified">false</value>
             <value name="is_global">false</value>
@@ -164,10 +244,18 @@
           <record javaclass="com.wm.util.Values">
             <value name="node_type">unknown</value>
             <value name="node_subtype">unknown</value>
+            <value name="node_comment"></value>
+            <record name="node_hints" javaclass="com.wm.util.Values">
+              <value name="field_usereditable">true</value>
+              <value name="field_largerEditor">false</value>
+              <value name="field_password">false</value>
+            </record>
             <value name="is_public">false</value>
             <value name="field_name">Destination</value>
             <value name="field_type">string</value>
             <value name="field_dim">0</value>
+            <array name="field_options" type="value" depth="1">
+            </array>
             <value name="nillable">true</value>
             <value name="form_qualified">false</value>
             <value name="is_global">false</value>
@@ -962,8 +1050,4 @@
 <MAPCOPY FROM="/ShipmentDetailsIN;2;0/Destination;1;0" TO="/ShipmentDetailsOUT;2;0/Destination;1;0">
 </MAPCOPY>
 </MAP>
-
-<INVOKE TIMEOUT="" SERVICE="pub.flow:savePipelineToFile" VALIDATE-IN="$none" VALIDATE-OUT="$none">
-  <COMMENT></COMMENT>
-</INVOKE>
 </FLOW>
