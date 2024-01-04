@@ -1044,45 +1044,292 @@
                 <value name="field_password">false</value>
               </record>
               <value name="is_public">false</value>
-              <value name="field_name">CustomsDeclarationDate</value>
-              <value name="field_type">string</value>
-              <value name="field_dim">0</value>
-              <array name="field_options" type="value" depth="1">
-              </array>
-              <value name="nillable">true</value>
-              <value name="form_qualified">false</value>
-              <value name="is_global">false</value>
-            </record>
-            <record javaclass="com.wm.util.Values">
-              <value name="node_type">unknown</value>
-              <value name="node_subtype">unknown</value>
-              <value name="node_comment"></value>
-              <record name="node_hints" javaclass="com.wm.util.Values">
-                <value name="field_usereditable">true</value>
-                <value name="field_largerEditor">false</value>
-                <value name="field_password">false</value>
-              </record>
-              <value name="is_public">false</value>
-              <value name="field_name">CustomsDeclarationNumber</value>
-              <value name="field_type">string</value>
-              <value name="field_dim">0</value>
-              <array name="field_options" type="value" depth="1">
-              </array>
-              <value name="nillable">true</value>
-              <value name="form_qualified">false</value>
-              <value name="is_global">false</value>
-            </record>
-            <record javaclass="com.wm.util.Values">
-              <value name="node_type">unknown</value>
-              <value name="node_subtype">unknown</value>
-              <value name="node_comment"></value>
-              <record name="node_hints" javaclass="com.wm.util.Values">
-                <value name="field_usereditable">true</value>
-                <value name="field_largerEditor">false</value>
-                <value name="field_password">false</value>
-              </record>
-              <value name="is_public">false</value>
               <value name="field_name">Destination</value>
+              <value name="field_type">string</value>
+              <value name="field_dim">0</value>
+              <array name="field_options" type="value" depth="1">
+              </array>
+              <value name="nillable">true</value>
+              <value name="form_qualified">false</value>
+              <value name="is_global">false</value>
+            </record>
+            <record javaclass="com.wm.util.Values">
+              <value name="node_type">unknown</value>
+              <value name="node_subtype">unknown</value>
+              <value name="node_comment"></value>
+              <record name="node_hints" javaclass="com.wm.util.Values">
+                <value name="field_usereditable">true</value>
+                <value name="field_largerEditor">false</value>
+                <value name="field_password">false</value>
+              </record>
+              <value name="is_public">false</value>
+              <value name="field_name">Pieces</value>
+              <value name="field_type">string</value>
+              <value name="field_dim">0</value>
+              <array name="field_options" type="value" depth="1">
+              </array>
+              <value name="nillable">true</value>
+              <value name="form_qualified">false</value>
+              <value name="is_global">false</value>
+            </record>
+            <record javaclass="com.wm.util.Values">
+              <value name="node_type">unknown</value>
+              <value name="node_subtype">unknown</value>
+              <value name="node_comment"></value>
+              <record name="node_hints" javaclass="com.wm.util.Values">
+                <value name="field_usereditable">true</value>
+                <value name="field_largerEditor">false</value>
+                <value name="field_password">false</value>
+              </record>
+              <value name="is_public">false</value>
+              <value name="field_name">ProductType</value>
+              <value name="field_type">string</value>
+              <value name="field_dim">0</value>
+              <array name="field_options" type="value" depth="1">
+              </array>
+              <value name="nillable">true</value>
+              <value name="form_qualified">false</value>
+              <value name="is_global">false</value>
+            </record>
+            <record javaclass="com.wm.util.Values">
+              <value name="node_type">unknown</value>
+              <value name="node_subtype">unknown</value>
+              <value name="node_comment"></value>
+              <record name="node_hints" javaclass="com.wm.util.Values">
+                <value name="field_usereditable">true</value>
+                <value name="field_largerEditor">false</value>
+                <value name="field_password">false</value>
+              </record>
+              <value name="is_public">false</value>
+              <value name="field_name">ShipmentMode</value>
+              <value name="field_type">string</value>
+              <value name="field_dim">0</value>
+              <array name="field_options" type="value" depth="1">
+              </array>
+              <value name="nillable">true</value>
+              <value name="form_qualified">false</value>
+              <value name="is_global">false</value>
+            </record>
+            <record javaclass="com.wm.util.Values">
+              <value name="node_type">unknown</value>
+              <value name="node_subtype">unknown</value>
+              <value name="node_comment"></value>
+              <record name="node_hints" javaclass="com.wm.util.Values">
+                <value name="field_usereditable">true</value>
+                <value name="field_largerEditor">false</value>
+                <value name="field_password">false</value>
+              </record>
+              <value name="is_public">false</value>
+              <value name="field_name">TranportationShipperDepartment</value>
+              <value name="field_type">string</value>
+              <value name="field_dim">0</value>
+              <array name="field_options" type="value" depth="1">
+              </array>
+              <value name="nillable">true</value>
+              <value name="form_qualified">false</value>
+              <value name="is_global">false</value>
+            </record>
+            <record javaclass="com.wm.util.Values">
+              <value name="node_type">unknown</value>
+              <value name="node_subtype">unknown</value>
+              <value name="node_comment"></value>
+              <record name="node_hints" javaclass="com.wm.util.Values">
+                <value name="field_usereditable">true</value>
+                <value name="field_largerEditor">false</value>
+                <value name="field_password">false</value>
+              </record>
+              <value name="is_public">false</value>
+              <value name="field_name">TransportationType</value>
+              <value name="field_type">string</value>
+              <value name="field_dim">0</value>
+              <array name="field_options" type="value" depth="1">
+              </array>
+              <value name="nillable">true</value>
+              <value name="form_qualified">false</value>
+              <value name="is_global">false</value>
+            </record>
+            <record javaclass="com.wm.util.Values">
+              <value name="node_type">unknown</value>
+              <value name="node_subtype">unknown</value>
+              <value name="node_comment"></value>
+              <record name="node_hints" javaclass="com.wm.util.Values">
+                <value name="field_usereditable">true</value>
+                <value name="field_largerEditor">false</value>
+                <value name="field_password">false</value>
+              </record>
+              <value name="is_public">false</value>
+              <value name="field_name">VendorName</value>
+              <value name="field_type">string</value>
+              <value name="field_dim">0</value>
+              <array name="field_options" type="value" depth="1">
+              </array>
+              <value name="nillable">true</value>
+              <value name="form_qualified">false</value>
+              <value name="is_global">false</value>
+            </record>
+            <record javaclass="com.wm.util.Values">
+              <value name="node_type">unknown</value>
+              <value name="node_subtype">unknown</value>
+              <value name="node_comment"></value>
+              <record name="node_hints" javaclass="com.wm.util.Values">
+                <value name="field_usereditable">true</value>
+                <value name="field_largerEditor">false</value>
+                <value name="field_password">false</value>
+              </record>
+              <value name="is_public">false</value>
+              <value name="field_name">VendorNumber</value>
+              <value name="field_type">string</value>
+              <value name="field_dim">0</value>
+              <array name="field_options" type="value" depth="1">
+              </array>
+              <value name="nillable">true</value>
+              <value name="form_qualified">false</value>
+              <value name="is_global">false</value>
+            </record>
+            <record javaclass="com.wm.util.Values">
+              <value name="node_type">unknown</value>
+              <value name="node_subtype">unknown</value>
+              <value name="node_comment"></value>
+              <record name="node_hints" javaclass="com.wm.util.Values">
+                <value name="field_usereditable">true</value>
+                <value name="field_largerEditor">false</value>
+                <value name="field_password">false</value>
+              </record>
+              <value name="is_public">false</value>
+              <value name="field_name">VendorTaxNumber</value>
+              <value name="field_type">string</value>
+              <value name="field_dim">0</value>
+              <array name="field_options" type="value" depth="1">
+              </array>
+              <value name="nillable">true</value>
+              <value name="form_qualified">false</value>
+              <value name="is_global">false</value>
+            </record>
+            <record javaclass="com.wm.util.Values">
+              <value name="node_type">unknown</value>
+              <value name="node_subtype">unknown</value>
+              <value name="node_comment"></value>
+              <record name="node_hints" javaclass="com.wm.util.Values">
+                <value name="field_usereditable">true</value>
+                <value name="field_largerEditor">false</value>
+                <value name="field_password">false</value>
+              </record>
+              <value name="is_public">false</value>
+              <value name="field_name">VesselName</value>
+              <value name="field_type">string</value>
+              <value name="field_dim">0</value>
+              <array name="field_options" type="value" depth="1">
+              </array>
+              <value name="nillable">true</value>
+              <value name="form_qualified">false</value>
+              <value name="is_global">false</value>
+            </record>
+            <record javaclass="com.wm.util.Values">
+              <value name="node_type">unknown</value>
+              <value name="node_subtype">unknown</value>
+              <value name="node_comment"></value>
+              <record name="node_hints" javaclass="com.wm.util.Values">
+                <value name="field_usereditable">true</value>
+                <value name="field_largerEditor">false</value>
+                <value name="field_password">false</value>
+              </record>
+              <value name="is_public">false</value>
+              <value name="field_name">VolumeCBM</value>
+              <value name="field_type">string</value>
+              <value name="field_dim">0</value>
+              <array name="field_options" type="value" depth="1">
+              </array>
+              <value name="nillable">true</value>
+              <value name="form_qualified">false</value>
+              <value name="is_global">false</value>
+            </record>
+            <record javaclass="com.wm.util.Values">
+              <value name="node_type">unknown</value>
+              <value name="node_subtype">unknown</value>
+              <value name="node_comment"></value>
+              <record name="node_hints" javaclass="com.wm.util.Values">
+                <value name="field_usereditable">true</value>
+                <value name="field_largerEditor">false</value>
+                <value name="field_password">false</value>
+              </record>
+              <value name="is_public">false</value>
+              <value name="field_name">VolumeUnit</value>
+              <value name="field_type">string</value>
+              <value name="field_dim">0</value>
+              <array name="field_options" type="value" depth="1">
+              </array>
+              <value name="nillable">true</value>
+              <value name="form_qualified">false</value>
+              <value name="is_global">false</value>
+            </record>
+            <record javaclass="com.wm.util.Values">
+              <value name="node_type">unknown</value>
+              <value name="node_subtype">unknown</value>
+              <value name="node_comment"></value>
+              <record name="node_hints" javaclass="com.wm.util.Values">
+                <value name="field_usereditable">true</value>
+                <value name="field_largerEditor">false</value>
+                <value name="field_password">false</value>
+              </record>
+              <value name="is_public">false</value>
+              <value name="field_name">VolumeWeight</value>
+              <value name="field_type">string</value>
+              <value name="field_dim">0</value>
+              <array name="field_options" type="value" depth="1">
+              </array>
+              <value name="nillable">true</value>
+              <value name="form_qualified">false</value>
+              <value name="is_global">false</value>
+            </record>
+            <record javaclass="com.wm.util.Values">
+              <value name="node_type">unknown</value>
+              <value name="node_subtype">unknown</value>
+              <value name="node_comment"></value>
+              <record name="node_hints" javaclass="com.wm.util.Values">
+                <value name="field_usereditable">true</value>
+                <value name="field_largerEditor">false</value>
+                <value name="field_password">false</value>
+              </record>
+              <value name="is_public">false</value>
+              <value name="field_name">WaybillNumber</value>
+              <value name="field_type">string</value>
+              <value name="field_dim">0</value>
+              <array name="field_options" type="value" depth="1">
+              </array>
+              <value name="nillable">true</value>
+              <value name="form_qualified">false</value>
+              <value name="is_global">false</value>
+            </record>
+            <record javaclass="com.wm.util.Values">
+              <value name="node_type">unknown</value>
+              <value name="node_subtype">unknown</value>
+              <value name="node_comment"></value>
+              <record name="node_hints" javaclass="com.wm.util.Values">
+                <value name="field_usereditable">true</value>
+                <value name="field_largerEditor">false</value>
+                <value name="field_password">false</value>
+              </record>
+              <value name="is_public">false</value>
+              <value name="field_name">WaybillType</value>
+              <value name="field_type">string</value>
+              <value name="field_dim">0</value>
+              <array name="field_options" type="value" depth="1">
+              </array>
+              <value name="nillable">true</value>
+              <value name="form_qualified">false</value>
+              <value name="is_global">false</value>
+            </record>
+            <record javaclass="com.wm.util.Values">
+              <value name="node_type">unknown</value>
+              <value name="node_subtype">unknown</value>
+              <value name="node_comment"></value>
+              <record name="node_hints" javaclass="com.wm.util.Values">
+                <value name="field_usereditable">true</value>
+                <value name="field_largerEditor">false</value>
+                <value name="field_password">false</value>
+              </record>
+              <value name="is_public">false</value>
+              <value name="field_name">WeightUnit</value>
               <value name="field_type">string</value>
               <value name="field_dim">0</value>
               <array name="field_options" type="value" depth="1">
@@ -1115,84 +1362,68 @@
   <value name="auditoption">0</value>
   <array name="auditfields_input" type="value" depth="2">
     <array type="value" depth="1">
-      <value>/ShipmentDetailsIN;2;0/CustomerServicePhone;1;0</value>
-      <value>CustomerServicePhone</value>
+      <value>/ShipmentDetailsIN;2;0/VesselName;2;0/-self-closing;1;0</value>
+      <value>-self-closing</value>
     </array>
     <array type="value" depth="1">
-      <value>/ShipmentDetailsIN;2;0/MeasureUnit;1;0</value>
-      <value>MeasureUnit</value>
-    </array>
-    <array type="value" depth="1">
-      <value>/ShipmentDetailsIN;2;0/WaybillNumber;1;0</value>
-      <value>WaybillNumber</value>
-    </array>
-    <array type="value" depth="1">
-      <value>/ShipmentDetailsIN;2;0/WaybillType;1;0</value>
-      <value>WaybillType</value>
-    </array>
-    <array type="value" depth="1">
-      <value>/ShipmentDetailsIN;2;0/CompanyID;1;0</value>
-      <value>CompanyID</value>
+      <value>/ShipmentDetailsIN;2;0/GoodsValueCurrency;1;0</value>
+      <value>GoodsValueCurrency</value>
     </array>
     <array type="value" depth="1">
       <value>/ShipmentDetailsIN;2;0/ForwarderShipmentNumber;1;0</value>
       <value>ForwarderShipmentNumber</value>
     </array>
     <array type="value" depth="1">
-      <value>/ShipmentDetailsIN;2;0/ProductType;1;0</value>
-      <value>ProductType</value>
-    </array>
-    <array type="value" depth="1">
-      <value>/ShipmentDetailsIN;2;0/Carrier;1;0</value>
-      <value>Carrier</value>
-    </array>
-    <array type="value" depth="1">
-      <value>/ShipmentDetailsIN;2;0/WeightUnit;1;0</value>
-      <value>WeightUnit</value>
-    </array>
-    <array type="value" depth="1">
-      <value>/ShipmentDetailsIN;2;0/VolumeWeight;1;0</value>
-      <value>VolumeWeight</value>
-    </array>
-    <array type="value" depth="1">
       <value>/ShipmentDetailsIN;2;0/CustomsDeclarationDate;1;0</value>
       <value>CustomsDeclarationDate</value>
     </array>
     <array type="value" depth="1">
-      <value>/ShipmentDetailsIN;2;0/VolumeCBM;1;0</value>
-      <value>VolumeCBM</value>
-    </array>
-    <array type="value" depth="1">
-      <value>/ShipmentDetailsIN;2;0/CustomerServiceEmail;1;0</value>
-      <value>CustomerServiceEmail</value>
-    </array>
-    <array type="value" depth="1">
-      <value>/ShipmentDetailsIN;2;0/POL;2;0/-self-closing;1;0</value>
-      <value>-self-closing</value>
-    </array>
-    <array type="value" depth="1">
-      <value>/ShipmentDetailsIN;2;0/ChargeableWeight;1;0</value>
-      <value>ChargeableWeight</value>
-    </array>
-    <array type="value" depth="1">
-      <value>/ShipmentDetailsIN;2;0/ForwardingOrBrokerage;1;0</value>
-      <value>ForwardingOrBrokerage</value>
-    </array>
-    <array type="value" depth="1">
-      <value>/ShipmentDetailsIN;2;0/GrossWeight;1;0</value>
-      <value>GrossWeight</value>
+      <value>/ShipmentDetailsIN;2;0/ProductType;1;0</value>
+      <value>ProductType</value>
     </array>
     <array type="value" depth="1">
       <value>/ShipmentDetailsIN;2;0/IncoTerms;1;0</value>
       <value>IncoTerms</value>
     </array>
     <array type="value" depth="1">
-      <value>/ShipmentDetailsIN;2;0/VendorName;1;0</value>
-      <value>VendorName</value>
+      <value>/ShipmentDetailsIN;2;0/ChargeableWeight;1;0</value>
+      <value>ChargeableWeight</value>
     </array>
     <array type="value" depth="1">
-      <value>/ShipmentDetailsIN;2;0/GoodsValue;1;0</value>
-      <value>GoodsValue</value>
+      <value>/ShipmentDetailsIN;2;0/VolumeUnit;2;0/-self-closing;1;0</value>
+      <value>-self-closing</value>
+    </array>
+    <array type="value" depth="1">
+      <value>/ShipmentDetailsIN;2;0/CompanyID;1;0</value>
+      <value>CompanyID</value>
+    </array>
+    <array type="value" depth="1">
+      <value>/ShipmentDetailsIN;2;0/CustomerServiceEmail;1;0</value>
+      <value>CustomerServiceEmail</value>
+    </array>
+    <array type="value" depth="1">
+      <value>/ShipmentDetailsIN;2;0/VendorTaxNumber;2;0/-self-closing;1;0</value>
+      <value>-self-closing</value>
+    </array>
+    <array type="value" depth="1">
+      <value>/ShipmentDetailsIN;2;0/CustomsDeclarationNumber;1;0</value>
+      <value>CustomsDeclarationNumber</value>
+    </array>
+    <array type="value" depth="1">
+      <value>/ShipmentDetailsIN;2;0/ShipmentMode;1;0</value>
+      <value>ShipmentMode</value>
+    </array>
+    <array type="value" depth="1">
+      <value>/ShipmentDetailsIN;2;0/Destination;1;0</value>
+      <value>Destination</value>
+    </array>
+    <array type="value" depth="1">
+      <value>/ShipmentDetailsIN;2;0/VendorNumber;2;0/-self-closing;1;0</value>
+      <value>-self-closing</value>
+    </array>
+    <array type="value" depth="1">
+      <value>/ShipmentDetailsIN;2;0/WaybillType;1;0</value>
+      <value>WaybillType</value>
     </array>
     <array type="value" depth="1">
       <value>/ShipmentDetailsIN;2;0/POD;1;0</value>
@@ -1203,112 +1434,83 @@
       <value>TranportationShipperDepartment</value>
     </array>
     <array type="value" depth="1">
-      <value>/ShipmentDetailsIN;2;0/GoodsValueCurrency;1;0</value>
-      <value>GoodsValueCurrency</value>
-    </array>
-    <array type="value" depth="1">
-      <value>/ShipmentDetailsIN;2;0/CustomerServiceName;1;0</value>
-      <value>CustomerServiceName</value>
-    </array>
-    <array type="value" depth="1">
       <value>/ShipmentDetailsIN;2;0/CompanyCoutryCode;1;0</value>
       <value>CompanyCoutryCode</value>
     </array>
     <array type="value" depth="1">
-      <value>/ShipmentDetailsIN;2;0/CustomsDeclarationNumber;1;0</value>
-      <value>CustomsDeclarationNumber</value>
-    </array>
-    <array type="value" depth="1">
-      <value>/ShipmentDetailsIN;2;0/Destination;1;0</value>
-      <value>Destination</value>
-    </array>
-    <array type="value" depth="1">
-      <value>/ShipmentDetailsIN;2;0/VesselName;2;0/-self-closing;1;0</value>
-      <value>-self-closing</value>
-    </array>
-    <array type="value" depth="1">
-      <value>/ShipmentDetailsIN;2;0/B2B;1;0</value>
-      <value>B2B</value>
-    </array>
-    <array type="value" depth="1">
-      <value>/ShipmentDetailsIN;2;0/ShipmentMode;1;0</value>
-      <value>ShipmentMode</value>
+      <value>/ShipmentDetailsIN;2;0/CustomerServicePhone;1;0</value>
+      <value>CustomerServicePhone</value>
     </array>
     <array type="value" depth="1">
       <value>/ShipmentDetailsIN;2;0/TransportationType;1;0</value>
       <value>TransportationType</value>
     </array>
     <array type="value" depth="1">
-      <value>/ShipmentDetailsIN;2;0/VendorTaxNumber;2;0/-self-closing;1;0</value>
-      <value>-self-closing</value>
+      <value>/ShipmentDetailsIN;2;0/VolumeWeight;1;0</value>
+      <value>VolumeWeight</value>
+    </array>
+    <array type="value" depth="1">
+      <value>/ShipmentDetailsIN;2;0/VolumeCBM;1;0</value>
+      <value>VolumeCBM</value>
+    </array>
+    <array type="value" depth="1">
+      <value>/ShipmentDetailsIN;2;0/Carrier;1;0</value>
+      <value>Carrier</value>
+    </array>
+    <array type="value" depth="1">
+      <value>/ShipmentDetailsIN;2;0/B2B;1;0</value>
+      <value>B2B</value>
+    </array>
+    <array type="value" depth="1">
+      <value>/ShipmentDetailsIN;2;0/ForwardingOrBrokerage;1;0</value>
+      <value>ForwardingOrBrokerage</value>
+    </array>
+    <array type="value" depth="1">
+      <value>/ShipmentDetailsIN;2;0/WeightUnit;1;0</value>
+      <value>WeightUnit</value>
+    </array>
+    <array type="value" depth="1">
+      <value>/ShipmentDetailsIN;2;0/GoodsValue;1;0</value>
+      <value>GoodsValue</value>
     </array>
     <array type="value" depth="1">
       <value>/ShipmentDetailsIN;2;0/MasterWaybillNumber;1;0</value>
       <value>MasterWaybillNumber</value>
     </array>
     <array type="value" depth="1">
-      <value>/ShipmentDetailsIN;2;0/Origin;1;0</value>
-      <value>Origin</value>
-    </array>
-    <array type="value" depth="1">
-      <value>/ShipmentDetailsIN;2;0/VolumeUnit;2;0/-self-closing;1;0</value>
-      <value>-self-closing</value>
-    </array>
-    <array type="value" depth="1">
       <value>/ShipmentDetailsIN;2;0/Pieces;1;0</value>
       <value>Pieces</value>
     </array>
     <array type="value" depth="1">
-      <value>/ShipmentDetailsIN;2;0/VendorNumber;2;0/-self-closing;1;0</value>
-      <value>-self-closing</value>
-    </array>
-  </array>
-  <array name="auditfields_output" type="value" depth="2">
-    <array type="value" depth="1">
-      <value>/ShipmentDetailsOUT;2;0/CustomsDeclarationNumber;1;0</value>
-      <value>CustomsDeclarationNumber</value>
+      <value>/ShipmentDetailsIN;2;0/Origin;1;0</value>
+      <value>Origin</value>
     </array>
     <array type="value" depth="1">
-      <value>/ShipmentDetailsOUT;2;0/CustomsDeclarationDate;1;0</value>
-      <value>CustomsDeclarationDate</value>
+      <value>/ShipmentDetailsIN;2;0/WaybillNumber;1;0</value>
+      <value>WaybillNumber</value>
     </array>
     <array type="value" depth="1">
-      <value>/ShipmentDetailsOUT;2;0/CompanyID;1;0</value>
-      <value>CompanyID</value>
+      <value>/ShipmentDetailsIN;2;0/VendorName;1;0</value>
+      <value>VendorName</value>
     </array>
     <array type="value" depth="1">
-      <value>/ShipmentDetailsOUT;2;0/CustomerServiceName;1;0</value>
+      <value>/ShipmentDetailsIN;2;0/GrossWeight;1;0</value>
+      <value>GrossWeight</value>
+    </array>
+    <array type="value" depth="1">
+      <value>/ShipmentDetailsIN;2;0/CustomerServiceName;1;0</value>
       <value>CustomerServiceName</value>
     </array>
     <array type="value" depth="1">
-      <value>/ShipmentDetailsOUT;2;0/Destination;1;0</value>
-      <value>Destination</value>
+      <value>/ShipmentDetailsIN;2;0/MeasureUnit;1;0</value>
+      <value>MeasureUnit</value>
     </array>
     <array type="value" depth="1">
-      <value>/ShipmentDetailsOUT;2;0/ChargeableWeight;1;0</value>
-      <value>ChargeableWeight</value>
-    </array>
-    <array type="value" depth="1">
-      <value>/ShipmentDetailsOUT;2;0/Carrier;1;0</value>
-      <value>Carrier</value>
-    </array>
-    <array type="value" depth="1">
-      <value>/ShipmentDetailsOUT;2;0/CustomerServicePhone;1;0</value>
-      <value>CustomerServicePhone</value>
-    </array>
-    <array type="value" depth="1">
-      <value>/ShipmentDetailsOUT;2;0/CompanyCoutryCode;1;0</value>
-      <value>CompanyCoutryCode</value>
-    </array>
-    <array type="value" depth="1">
-      <value>/ShipmentDetailsOUT;2;0/B2B;1;0</value>
-      <value>B2B</value>
-    </array>
-    <array type="value" depth="1">
-      <value>/ShipmentDetailsOUT;2;0/CustomerServiceEmail;1;0</value>
-      <value>CustomerServiceEmail</value>
+      <value>/ShipmentDetailsIN;2;0/POL;2;0/-self-closing;1;0</value>
+      <value>-self-closing</value>
     </array>
   </array>
+  <null name="auditfields_output"/>
   <record name="auditsettings" javaclass="com.wm.util.Values">
     <value name="document_data">0</value>
     <value name="startExecution">false</value>
